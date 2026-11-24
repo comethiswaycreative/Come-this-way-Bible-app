@@ -1,6 +1,6 @@
 (function(){
   const CODES = ["BIBLEBOOK2026"];
-  const BUY_LINK = "https://payhip.com/b/YOURLINK";
+  const BUY_LINK = "https://payhip.com/b/t4QU2";
   const FREE = 3;
 
   function unlocked(){
